@@ -23,7 +23,7 @@ database. Follow the steps to use this repo:
 1. Download the repo and paste in your "WWW" folder.
 2. Open the file "application\config\config.php".
 3. Find and replace the below code in "config.php" file.
-* Example:
+Example:
 
 //  Find the below code
 $config['index_page'] = 'index.php';
@@ -44,6 +44,6 @@ $config['base_url'] = 'http://localhost/www/example_codeigniter_crud/';
 
 5. Import the "codeigniter_crud.sql" to your MySQL database.
 6. Open the base url in your browser.
-* Example:
+Example:
 
 http://localhost/www/example_codeigniter_crud/
