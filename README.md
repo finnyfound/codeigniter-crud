@@ -1,4 +1,4 @@
-CodeIgniter CRUD
+CodeIgniter CRUD(CI VERSION 3.1.9)
 ================
 
 A simple example to make a CRUD
